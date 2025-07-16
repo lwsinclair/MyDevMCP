@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/analyticace-mydevmcp-badge.png)](https://mseep.ai/app/analyticace-mydevmcp)
+
 # MyMCP
 
 A collection of Model Context Protocol (MCP) servers providing various integrations and capabilities for MCP-compatible clients like Claude Desktop, VS Code, and other AI applications.
